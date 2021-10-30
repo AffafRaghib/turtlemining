@@ -62,10 +62,10 @@
     "log-file": null,
     "pools": [
         {
-            "algo": null,
-            "coin": null,
-            "url": "trtl-miner.azpool.win:5555",
-            "user": "TRTLv3VRJhET2ZAT2w6Bm61khACA7NvQAitPVzQtxKWYLvKwBaCYz3TjBa9fUvDJ63ZB7BJfGL3CNeaVwkTycktnhzqq6grhgwu",
+            "algo": "argom2/chukwav2",
+            "coin": "trtl",
+            "url": "sg.turtlecoin.herominers.com:1160",
+            "user": "TRTLuxEGjhAepGHPikgdqHFT4uFsVKnxrSnkP1h6NDEND5VTDanxwhy8vrx1E7nExgQZBfzaGSf2sJY5m4HiDRFfceQpJXubF84",
             "pass": "Oracle",
             "rig-id": null,
             "nicehash": false,
